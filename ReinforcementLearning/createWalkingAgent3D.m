@@ -4,8 +4,8 @@
 %% SET UP ENVIRONMENT
 % Speedup options
 useFastRestart = true;
-useGPU = true;
-useParallel = true;
+useGPU = false;
+useParallel = false;
 
 % Create the observation info
 numObs = 43;
